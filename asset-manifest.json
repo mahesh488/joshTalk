@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/joshTalk/static/css/main.e6c13ad2.css",
+    "main.js": "/joshTalk/static/js/main.eaff0138.js",
+    "static/js/787.01a743a1.chunk.js": "/joshTalk/static/js/787.01a743a1.chunk.js",
+    "index.html": "/joshTalk/index.html",
+    "main.e6c13ad2.css.map": "/joshTalk/static/css/main.e6c13ad2.css.map",
+    "main.eaff0138.js.map": "/joshTalk/static/js/main.eaff0138.js.map",
+    "787.01a743a1.chunk.js.map": "/joshTalk/static/js/787.01a743a1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.eaff0138.js"
+  ]
+}
